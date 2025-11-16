@@ -36,17 +36,25 @@ Etapas do Projeto
 - GitHub
 
 Estrutura do Repositório
+
 📂 /notebooks_sql
     └── consultas.sql
+    
 📂 /data
     └── arquivos_originais.csv
+    
 📂 /screenshots
     └── evidencias_etapas.png
+    
 📂 /powerbi
     └── dashboard.pbix
+    
 📄 README.md
+
 📄 objetivos.md
+
 📄 autoavaliacao.md
+
 📄 catalogo_dados.md
 
 
