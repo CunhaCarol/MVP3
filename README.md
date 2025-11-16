@@ -34,7 +34,7 @@ Etapas do Projeto
 - Databricks Community Edition
 - Power BI Desktop
 - GitHub
-- 
+
 Estrutura do Repositório
 📂 /notebooks_sql
     └── consultas.sql
